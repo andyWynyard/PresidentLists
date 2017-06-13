@@ -1,0 +1,1 @@
+[President [termNumber=1, firstName=George, middleName=, lastName=Washington, startYear=1789, endYear=1797, party=Independent]]
